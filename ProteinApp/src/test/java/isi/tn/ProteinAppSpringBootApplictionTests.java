@@ -1,10 +1,10 @@
-package com.example.mypckg;
+package isi.tn;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class ECommerce1ApplicationTests {
+class ProteinAppSpringBootApplictionTests {
 
 	@Test
 	void contextLoads() {
